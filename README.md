@@ -1,6 +1,5 @@
 # Machine-Learning-Classifiers
 
-## Week 1
 |№|Title| Idea implemented on|
 | ----: | --- | --- |
 |1.|[PCA Classifier](https://github.com/Komal7209/PCA-Classifier)| --- |
