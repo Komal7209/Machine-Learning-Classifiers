@@ -8,3 +8,4 @@
 |4.|[Random Forest Classifier](https://github.com/Komal7209/Random-Forest)| --- |
 |5.|[Linear Regression](https://github.com/Komal7209/Linear-Regression)| --- |
 |6.|[Naive Bayes](https://github.com/Komal7209/Naive-Bayes)| --- |
+|6.|[SVM]| --- |
